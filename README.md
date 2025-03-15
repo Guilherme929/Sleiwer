@@ -15,7 +15,3 @@ Através do meu trabalho com **Deface** e outras atividades relacionadas, procur
 
 Se você compartilha do interesse por segurança da web, hacking ético, ou se quer aprender a proteger sistemas contra ataques, você está no lugar certo!
 
-➡️ Acompanhe os projetos e contribua para um ambiente online mais seguro!
-
-░░▒▒▓▓████▓▓░░▓▓▓▓░░▒▒░░
-
