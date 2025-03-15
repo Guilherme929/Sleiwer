@@ -1,5 +1,7 @@
 # HackedWEB
 
+![Logo HackedWEB](20250315_001038.png)
+
 
 Bem-vindo ao meu GitHub! 🚀
 Aqui, você vai encontrar diversos projetos e contribuições, com foco em segurança cibernética e técnicas de hacking ético. 🔐
